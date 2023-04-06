@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+}
+.outline {
+  border: 1px solid red;
+}
+.list {
+  height: calc(100vh - 100px);
+  width: 200px;
+}
+.contents {
+  margin-left: 10px;
+  height: calc(100vh - 100px);
+  width: calc(100% - 220px);
+}
